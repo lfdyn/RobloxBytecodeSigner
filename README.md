@@ -1,5 +1,5 @@
 # READ
-## This was patched in the new version-7a0c6d10fcb34a2c. Although I found a work around, if you want to obtain this work around I am selling it @badsquidward on discord. Furthermore, I will not update this repository. 
+## This was patched in the new version-7a0c6d10fcb34a2c. Although I found a work around (bytecode signing still), if you want to obtain this work around I am selling it @badsquidward on discord. Furthermore, I will not update this repository. 
 # Signer
 
 This package signs compiled Luau bytecode for version-cec3ad5889b447cf.
